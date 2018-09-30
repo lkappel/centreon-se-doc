@@ -1,0 +1,9 @@
+site_name: My Docs
+theme:
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
+
+repo_url: https://github.com/lkappel/transfert
