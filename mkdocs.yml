@@ -6,4 +6,4 @@ theme:
         - yaml
         - django
 
-repo_url: https://github.com/lkappel/transfert
+repo_url: https://github.com/lkappel/centreon-se-doc
